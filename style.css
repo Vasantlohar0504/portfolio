@@ -78,10 +78,11 @@ color:#38bdf8;
 /* ================= HERO SECTION ================= */
 
 .hero{
-height:90vh;
+min-height:100vh;
 display:flex;
 align-items:center;
-padding-top:80px;
+justify-content:center;
+padding-top:100px; /* space below navbar */
 }
 
 .hero-container{
