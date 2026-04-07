@@ -233,6 +233,11 @@ font-size:28px;
 margin:15px;
 color:white;
 }
+.card p{
+font-size:14px;
+color:#cbd5f5;
+margin-bottom:20px;
+}
 
 footer{
 text-align:center;
